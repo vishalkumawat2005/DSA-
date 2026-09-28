@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/vishalkumawat2005/DSA-/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkumawat2005/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0414-third-maximum-number) |
+| [0766-toeplitz-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 ## Sorting
@@ -59,6 +60,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
