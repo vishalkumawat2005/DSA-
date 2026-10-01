@@ -16,6 +16,7 @@
 | [0867-transpose-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0832-flipping-an-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
