@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/vishalkumawat2005/DSA-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/vishalkumawat2005/DSA-/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkumawat2005/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -66,6 +67,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0766-toeplitz-matrix) |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
