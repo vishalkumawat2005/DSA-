@@ -1,11 +1,23 @@
 class Solution:
     def thirdMax(self, nums: list[int]) -> int:
-        first=second=third=float('-inf')
-        for n in set(nums):
-            if n>first:
-                first,second,third=n,first,second
-            elif n>second:
-                second ,third=n,second
-            elif n>third:
-                third=n
-        return third if third!=float('-inf') else first
+
+        n = len(nums)
+
+        max1, max2, max3 = float('-inf'), float('-inf'), float('-inf')
+
+        for i in range(n):
+            if nums[i] > max1:
+                max1 = nums[i]
+
+        for i in range(n):
+            if nums[i] > max2 and nums[i] != max1:
+                max2 = nums[i]
+
+        for i in range(n):
+            if nums[i] > max3 and nums[i] != max1 and nums[i] != max2:
+                max3 = nums[i]
+
+        if max3 == float('-inf'):
+            return max1
+
+        return max3
