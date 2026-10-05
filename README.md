@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vishalkumawat2005/DSA-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/vishalkumawat2005/DSA-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0054-spiral-matrix) |
@@ -35,6 +36,7 @@
 | [0015-3sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vishalkumawat2005/DSA-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/vishalkumawat2005/DSA-/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkumawat2005/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0832-flipping-an-image) |
