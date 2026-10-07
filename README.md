@@ -15,6 +15,7 @@
 | [0073-set-matrix-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkumawat2005/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0414-third-maximum-number) |
 | [0766-toeplitz-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0766-toeplitz-matrix) |
@@ -29,6 +30,7 @@
 | [0015-3sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vishalkumawat2005/DSA-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkumawat2005/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -90,14 +93,17 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
