@@ -26,6 +26,7 @@
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vishalkumawat2005/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0283-move-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vishalkumawat2005/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0054-spiral-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0867-transpose-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vishalkumawat2005/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
