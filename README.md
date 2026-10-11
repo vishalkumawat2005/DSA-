@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/vishalkumawat2005/DSA-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/vishalkumawat2005/DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkumawat2005/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/vishalkumawat2005/DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vishalkumawat2005/DSA-/tree/master/0053-maximum-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vishalkumawat2005/DSA-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
