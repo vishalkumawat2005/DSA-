@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/vishalkumawat2005/DSA-/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/vishalkumawat2005/DSA-/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/vishalkumawat2005/DSA-/tree/master/0485-max-consecutive-ones) |
@@ -75,6 +76,7 @@
 | [0053-maximum-subarray](https://github.com/vishalkumawat2005/DSA-/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0064-minimum-path-sum) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalkumawat2005/DSA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0322-coin-change](https://github.com/vishalkumawat2005/DSA-/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/vishalkumawat2005/DSA-/tree/master/0377-combination-sum-iv) |
 | [0931-minimum-falling-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vishalkumawat2005/DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -143,4 +145,16 @@
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/vishalkumawat2005/DSA-/tree/master/1641-count-sorted-vowel-strings) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vishalkumawat2005/DSA-/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vishalkumawat2005/DSA-/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vishalkumawat2005/DSA-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
