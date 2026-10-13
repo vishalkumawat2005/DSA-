@@ -26,6 +26,7 @@
 | [0414-third-maximum-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/vishalkumawat2005/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0518-coin-change-ii) |
+| [0704-binary-search](https://github.com/vishalkumawat2005/DSA-/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0867-transpose-matrix) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkumawat2005/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/vishalkumawat2005/DSA-/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
