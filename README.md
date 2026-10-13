@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/vishalkumawat2005/DSA-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/vishalkumawat2005/DSA-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/vishalkumawat2005/DSA-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vishalkumawat2005/DSA-/tree/master/0053-maximum-subarray) |
@@ -64,6 +65,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vishalkumawat2005/DSA-/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkumawat2005/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/vishalkumawat2005/DSA-/tree/master/0704-binary-search) |
