@@ -28,6 +28,7 @@
 | [0867-transpose-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalkumawat2005/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -73,6 +74,7 @@
 | [0064-minimum-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0064-minimum-path-sum) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalkumawat2005/DSA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0931-minimum-falling-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1641-count-sorted-vowel-strings](https://github.com/vishalkumawat2005/DSA-/tree/master/1641-count-sorted-vowel-strings) |
 ## Stack
 |  |
@@ -97,6 +99,7 @@
 | [0832-flipping-an-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Simulation
