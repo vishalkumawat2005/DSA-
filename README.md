@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/vishalkumawat2005/DSA-/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/vishalkumawat2005/DSA-/tree/master/0377-combination-sum-iv) |
+| [0403-frog-jump](https://github.com/vishalkumawat2005/DSA-/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/vishalkumawat2005/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0518-coin-change-ii) |
@@ -87,6 +88,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalkumawat2005/DSA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0322-coin-change](https://github.com/vishalkumawat2005/DSA-/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/vishalkumawat2005/DSA-/tree/master/0377-combination-sum-iv) |
+| [0403-frog-jump](https://github.com/vishalkumawat2005/DSA-/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vishalkumawat2005/DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
