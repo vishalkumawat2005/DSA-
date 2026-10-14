@@ -14,6 +14,7 @@
 | [0048-rotate-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vishalkumawat2005/DSA-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/vishalkumawat2005/DSA-/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalkumawat2005/DSA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishalkumawat2005/DSA-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/vishalkumawat2005/DSA-/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Dynamic Programming
@@ -83,6 +85,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vishalkumawat2005/DSA-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vishalkumawat2005/DSA-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vishalkumawat2005/DSA-/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/vishalkumawat2005/DSA-/tree/master/0072-edit-distance) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalkumawat2005/DSA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
