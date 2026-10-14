@@ -33,6 +33,7 @@
 | [0867-transpose-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0931-minimum-falling-path-sum) |
+| [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vishalkumawat2005/DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -47,6 +48,7 @@
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
+| [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishalkumawat2005/DSA-/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
+| [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +141,7 @@
 | [0048-rotate-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
+| [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
 | [1641-count-sorted-vowel-strings](https://github.com/vishalkumawat2005/DSA-/tree/master/1641-count-sorted-vowel-strings) |
 ## Divide and Conquer
 |  |
@@ -165,4 +169,12 @@
 | ------- |
 | [0322-coin-change](https://github.com/vishalkumawat2005/DSA-/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0518-coin-change-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
