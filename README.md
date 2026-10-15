@@ -42,6 +42,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalkumawat2005/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2498-frog-jump-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/2498-frog-jump-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkumawat2005/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/vishalkumawat2005/DSA-/tree/master/0704-binary-search) |
+| [2498-frog-jump-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/2498-frog-jump-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
+| [2498-frog-jump-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/2498-frog-jump-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
