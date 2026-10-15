@@ -26,6 +26,7 @@
 | [0283-move-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/vishalkumawat2005/DSA-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0376-wiggle-subsequence](https://github.com/vishalkumawat2005/DSA-/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/vishalkumawat2005/DSA-/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/vishalkumawat2005/DSA-/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0414-third-maximum-number) |
@@ -86,6 +87,7 @@
 | [0011-container-with-most-water](https://github.com/vishalkumawat2005/DSA-/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/vishalkumawat2005/DSA-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/vishalkumawat2005/DSA-/tree/master/0376-wiggle-subsequence) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vishalkumawat2005/DSA-/tree/master/1338-reduce-array-size-to-the-half) |
@@ -104,6 +106,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalkumawat2005/DSA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0322-coin-change](https://github.com/vishalkumawat2005/DSA-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0376-wiggle-subsequence](https://github.com/vishalkumawat2005/DSA-/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/vishalkumawat2005/DSA-/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/vishalkumawat2005/DSA-/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0518-coin-change-ii) |
