@@ -40,6 +40,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vishalkumawat2005/DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/vishalkumawat2005/DSA-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalkumawat2005/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2498-frog-jump-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/2498-frog-jump-ii) |
@@ -84,6 +85,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/vishalkumawat2005/DSA-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2498-frog-jump-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/2498-frog-jump-ii) |
 ## Dynamic Programming
 |  |
@@ -102,6 +104,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vishalkumawat2005/DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/vishalkumawat2005/DSA-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1641-count-sorted-vowel-strings](https://github.com/vishalkumawat2005/DSA-/tree/master/1641-count-sorted-vowel-strings) |
 ## Stack
 |  |
@@ -193,4 +196,5 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/vishalkumawat2005/DSA-/tree/master/0072-edit-distance) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/vishalkumawat2005/DSA-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
