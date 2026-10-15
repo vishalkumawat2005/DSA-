@@ -99,6 +99,7 @@
 | [0055-jump-game](https://github.com/vishalkumawat2005/DSA-/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/vishalkumawat2005/DSA-/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/vishalkumawat2005/DSA-/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalkumawat2005/DSA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0322-coin-change](https://github.com/vishalkumawat2005/DSA-/tree/master/0322-coin-change) |
@@ -204,6 +205,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/vishalkumawat2005/DSA-/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/vishalkumawat2005/DSA-/tree/master/0091-decode-ways) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vishalkumawat2005/DSA-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Heap (Priority Queue)
 |  |
