@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/vishalkumawat2005/DSA-/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/vishalkumawat2005/DSA-/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/vishalkumawat2005/DSA-/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0414-third-maximum-number) |
@@ -101,6 +102,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalkumawat2005/DSA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0322-coin-change](https://github.com/vishalkumawat2005/DSA-/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/vishalkumawat2005/DSA-/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/vishalkumawat2005/DSA-/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0518-coin-change-ii) |
@@ -128,6 +130,7 @@
 | [0054-spiral-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0766-toeplitz-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0867-transpose-matrix) |
@@ -178,6 +181,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/vishalkumawat2005/DSA-/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -205,4 +209,24 @@
 |  |
 | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/vishalkumawat2005/DSA-/tree/master/1338-reduce-array-size-to-the-half) |
+## Depth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
