@@ -50,6 +50,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalkumawat2005/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2498-frog-jump-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/2498-frog-jump-ii) |
 | [3693-climbing-stairs-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/3693-climbing-stairs-ii) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/vishalkumawat2005/DSA-/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/vishalkumawat2005/DSA-/tree/master/0704-binary-search) |
 | [2498-frog-jump-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/2498-frog-jump-ii) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/vishalkumawat2005/DSA-/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vishalkumawat2005/DSA-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1641-count-sorted-vowel-strings](https://github.com/vishalkumawat2005/DSA-/tree/master/1641-count-sorted-vowel-strings) |
 | [3693-climbing-stairs-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/3693-climbing-stairs-ii) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/vishalkumawat2005/DSA-/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -249,4 +252,20 @@
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/vishalkumawat2005/DSA-/tree/master/1029-two-city-scheduling) |
+## Queue
+|  |
+| ------- |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/vishalkumawat2005/DSA-/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/vishalkumawat2005/DSA-/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/vishalkumawat2005/DSA-/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/vishalkumawat2005/DSA-/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 <!---LeetCode Topics End-->
