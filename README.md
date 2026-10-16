@@ -40,6 +40,7 @@
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/vishalkumawat2005/DSA-/tree/master/1029-two-city-scheduling) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vishalkumawat2005/DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vishalkumawat2005/DSA-/tree/master/1338-reduce-array-size-to-the-half) |
@@ -58,6 +59,7 @@
 | [0414-third-maximum-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/vishalkumawat2005/DSA-/tree/master/1029-two-city-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vishalkumawat2005/DSA-/tree/master/1338-reduce-array-size-to-the-half) |
 ## Two Pointers
 |  |
@@ -92,6 +94,7 @@
 | [0376-wiggle-subsequence](https://github.com/vishalkumawat2005/DSA-/tree/master/0376-wiggle-subsequence) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/vishalkumawat2005/DSA-/tree/master/1029-two-city-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vishalkumawat2005/DSA-/tree/master/1338-reduce-array-size-to-the-half) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vishalkumawat2005/DSA-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2498-frog-jump-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/2498-frog-jump-ii) |
@@ -236,4 +239,12 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/vishalkumawat2005/DSA-/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/vishalkumawat2005/DSA-/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
