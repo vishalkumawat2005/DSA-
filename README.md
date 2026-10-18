@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/vishalkumawat2005/DSA-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishalkumawat2005/DSA-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/vishalkumawat2005/DSA-/tree/master/0042-trapping-rain-water) |
@@ -81,6 +82,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishalkumawat2005/DSA-/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkumawat2005/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
