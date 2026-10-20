@@ -20,6 +20,7 @@
 | [0064-minimum-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalkumawat2005/DSA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/vishalkumawat2005/DSA-/tree/master/0128-longest-consecutive-sequence) |
@@ -87,6 +88,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishalkumawat2005/DSA-/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkumawat2005/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/vishalkumawat2005/DSA-/tree/master/0374-guess-number-higher-or-lower) |
