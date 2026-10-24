@@ -52,6 +52,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vishalkumawat2005/DSA-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1672-richest-customer-wealth](https://github.com/vishalkumawat2005/DSA-/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalkumawat2005/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2498-frog-jump-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/2498-frog-jump-ii) |
 | [3693-climbing-stairs-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/3693-climbing-stairs-ii) |
@@ -165,6 +166,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1672-richest-customer-wealth](https://github.com/vishalkumawat2005/DSA-/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
