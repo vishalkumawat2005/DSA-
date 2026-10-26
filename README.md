@@ -84,6 +84,7 @@
 | [0189-rotate-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/vishalkumawat2005/DSA-/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalkumawat2005/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -294,6 +295,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishalkumawat2005/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/vishalkumawat2005/DSA-/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/vishalkumawat2005/DSA-/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
