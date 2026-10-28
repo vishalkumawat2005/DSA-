@@ -80,6 +80,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/vishalkumawat2005/DSA-/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/vishalkumawat2005/DSA-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkumawat2005/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0283-move-zeroes) |
@@ -187,6 +188,7 @@
 | [0073-set-matrix-zeroes](https://github.com/vishalkumawat2005/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vishalkumawat2005/DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vishalkumawat2005/DSA-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vishalkumawat2005/DSA-/tree/master/1338-reduce-array-size-to-the-half) |
 ## Math
@@ -295,9 +297,11 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishalkumawat2005/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/vishalkumawat2005/DSA-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/vishalkumawat2005/DSA-/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vishalkumawat2005/DSA-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
