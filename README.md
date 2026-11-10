@@ -146,6 +146,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vishalkumawat2005/DSA-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vishalkumawat2005/DSA-/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -240,6 +241,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vishalkumawat2005/DSA-/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/vishalkumawat2005/DSA-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/vishalkumawat2005/DSA-/tree/master/0091-decode-ways) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vishalkumawat2005/DSA-/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -318,4 +320,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vishalkumawat2005/DSA-/tree/master/0206-reverse-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vishalkumawat2005/DSA-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
