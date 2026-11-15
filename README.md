@@ -50,6 +50,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vishalkumawat2005/DSA-/tree/master/1338-reduce-array-size-to-the-half) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vishalkumawat2005/DSA-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vishalkumawat2005/DSA-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vishalkumawat2005/DSA-/tree/master/1672-richest-customer-wealth) |
@@ -149,11 +150,13 @@
 | [0020-valid-parentheses](https://github.com/vishalkumawat2005/DSA-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vishalkumawat2005/DSA-/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishalkumawat2005/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vishalkumawat2005/DSA-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/vishalkumawat2005/DSA-/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vishalkumawat2005/DSA-/tree/master/0042-trapping-rain-water) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vishalkumawat2005/DSA-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Timsort
 |  |
 | ------- |
