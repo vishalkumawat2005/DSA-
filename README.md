@@ -153,6 +153,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishalkumawat2005/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vishalkumawat2005/DSA-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/vishalkumawat2005/DSA-/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/vishalkumawat2005/DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [0832-flipping-an-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalkumawat2005/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/vishalkumawat2005/DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishalkumawat2005/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/vishalkumawat2005/DSA-/tree/master/1544-make-the-string-great) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vishalkumawat2005/DSA-/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2390-removing-stars-from-a-string](https://github.com/vishalkumawat2005/DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
