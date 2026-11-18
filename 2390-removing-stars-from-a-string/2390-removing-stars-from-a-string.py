@@ -6,7 +6,4 @@ class Solution:
                 st.pop()
             else:
                 st.append(s[i])
-        res=""
-        while st:
-            res+=st.pop()
-        return res[::-1]
+        return "".join(st)
