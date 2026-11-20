@@ -36,6 +36,7 @@
 | [0377-combination-sum-iv](https://github.com/vishalkumawat2005/DSA-/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/vishalkumawat2005/DSA-/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/vishalkumawat2005/DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/vishalkumawat2005/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/vishalkumawat2005/DSA-/tree/master/0704-binary-search) |
@@ -66,6 +67,7 @@
 | [0018-4sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/vishalkumawat2005/DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/vishalkumawat2005/DSA-/tree/master/1029-two-city-scheduling) |
@@ -114,6 +116,7 @@
 | [0055-jump-game](https://github.com/vishalkumawat2005/DSA-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/vishalkumawat2005/DSA-/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/vishalkumawat2005/DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/vishalkumawat2005/DSA-/tree/master/1029-two-city-scheduling) |
@@ -136,6 +139,7 @@
 | [0376-wiggle-subsequence](https://github.com/vishalkumawat2005/DSA-/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/vishalkumawat2005/DSA-/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/vishalkumawat2005/DSA-/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/vishalkumawat2005/DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/vishalkumawat2005/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vishalkumawat2005/DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
