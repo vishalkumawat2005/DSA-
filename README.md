@@ -189,6 +189,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/vishalkumawat2005/DSA-/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalkumawat2005/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -213,6 +214,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/vishalkumawat2005/DSA-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vishalkumawat2005/DSA-/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/vishalkumawat2005/DSA-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 | [0976-largest-perimeter-triangle](https://github.com/vishalkumawat2005/DSA-/tree/master/0976-largest-perimeter-triangle) |
 | [1641-count-sorted-vowel-strings](https://github.com/vishalkumawat2005/DSA-/tree/master/1641-count-sorted-vowel-strings) |
@@ -348,4 +350,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vishalkumawat2005/DSA-/tree/master/0901-online-stock-span) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vishalkumawat2005/DSA-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
