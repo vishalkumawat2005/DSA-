@@ -209,6 +209,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vishalkumawat2005/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/vishalkumawat2005/DSA-/tree/master/0268-missing-number) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vishalkumawat2005/DSA-/tree/master/1338-reduce-array-size-to-the-half) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vishalkumawat2005/DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -262,6 +263,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishalkumawat2005/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/vishalkumawat2005/DSA-/tree/master/1544-make-the-string-great) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vishalkumawat2005/DSA-/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vishalkumawat2005/DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/vishalkumawat2005/DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
 |  |
