@@ -56,6 +56,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalkumawat2005/DSA-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vishalkumawat2005/DSA-/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vishalkumawat2005/DSA-/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/vishalkumawat2005/DSA-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vishalkumawat2005/DSA-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalkumawat2005/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2498-frog-jump-ii](https://github.com/vishalkumawat2005/DSA-/tree/master/2498-frog-jump-ii) |
@@ -94,6 +95,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/vishalkumawat2005/DSA-/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/vishalkumawat2005/DSA-/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vishalkumawat2005/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/vishalkumawat2005/DSA-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalkumawat2005/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -267,6 +269,7 @@
 | [1544-make-the-string-great](https://github.com/vishalkumawat2005/DSA-/tree/master/1544-make-the-string-great) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vishalkumawat2005/DSA-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vishalkumawat2005/DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/vishalkumawat2005/DSA-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vishalkumawat2005/DSA-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/vishalkumawat2005/DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
